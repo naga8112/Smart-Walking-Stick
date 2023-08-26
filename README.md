@@ -1,0 +1,2 @@
+# Smart-Walking-Stick
+This project involves the development of a blind walking stick prototype using Arduino technology. The walking stick incorporates various sensors, including a water sensor, light sensor, and ultrasonic sensor. These sensors provide feedback to the user based on changes in the environment. The aim of this project is to enhance safety and independence for visually impaired individuals. Future work includes refining the system and exploring potential integration with other assistive technologies.
